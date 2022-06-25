@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @worraps
 - 👀 I’m interested
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Ruby && Ruby On Rails
 - 📫  
